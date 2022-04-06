@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("background.png");
+    url("https://i.ibb.co/K9xPqgx/background.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("background.png") center center fixed;
+    url("https://i.ibb.co/K9xPqgx/background.png") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("background.png") !important;
+      url("https://i.ibb.co/K9xPqgx/background.png") !important;
   }
 }
